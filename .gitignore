@@ -1,0 +1,9 @@
+#Python projects
+__pycache__/
+
+# example files
+# Example/
+
+.DS_Store
+
+

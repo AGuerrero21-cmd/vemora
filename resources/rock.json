@@ -1,0 +1,68 @@
+{
+    "rocks": [
+      {
+        "rock_type": "Andesite / Basaltic Andesite",
+        "typical_specific_heat_J_g_C": "0.9 - 1.0",
+        "specific_heat_J_kg_C": "900 - 1000",
+        "density_kg_m3": "2300 - 2600",
+        "temperature_C": "900 - 1100"
+      },
+      {
+        "rock_type": "Basalt / Picro-Basalt",
+        "typical_specific_heat_J_g_C": "0.8 - 1.0",
+        "specific_heat_J_kg_C": "800 - 1000",
+        "density_kg_m3": "2700 - 3100",
+        "temperature_C": "1000 - 1250"
+      },
+      {
+        "rock_type": "Dacite",
+        "typical_specific_heat_J_g_C": "0.9 - 1.0",
+        "specific_heat_J_kg_C": "900 - 1000",
+        "density_kg_m3": "2400 - 2600",
+        "temperature_C": "800 - 1050"
+      },
+      {
+        "rock_type": "Phonolite",
+        "typical_specific_heat_J_g_C": "0.8 - 1.0",
+        "specific_heat_J_kg_C": "800 - 1000",
+        "density_kg_m3": "2300 - 2500",
+        "temperature_C": "850 - 1050"
+      },
+      {
+        "rock_type": "Phono-tephrite / Tephri-phonolite",
+        "typical_specific_heat_J_g_C": "0.8 - 1.0",
+        "specific_heat_J_kg_C": "800 - 1000",
+        "density_kg_m3": "2300 - 2600",
+        "temperature_C": "900 - 1100"
+      },
+      {
+        "rock_type": "Rhyolite",
+        "typical_specific_heat_J_g_C": "0.7 - 0.9",
+        "specific_heat_J_kg_C": "700 - 900",
+        "density_kg_m3": "2200 - 2500",
+        "temperature_C": "700 - 900"
+      },
+      {
+        "rock_type": "Trachyandesite / Basaltic Trachyandesite",
+        "typical_specific_heat_J_g_C": "0.9 - 1.0",
+        "specific_heat_J_kg_C": "900 - 1000",
+        "density_kg_m3": "2400 - 2600",
+        "temperature_C": "900 - 1150"
+      },
+      {
+        "rock_type": "Trachybasalt / Tephrite Basanite",
+        "typical_specific_heat_J_g_C": "0.8 - 1.0",
+        "specific_heat_J_kg_C": "800 - 1000",
+        "density_kg_m3": "2500 - 2900",
+        "temperature_C": "950 - 1200"
+      },
+      {
+        "rock_type": "Trachyte / Trachydacite",
+        "typical_specific_heat_J_g_C": "0.8 - 1.0",
+        "specific_heat_J_kg_C": "800 - 1000",
+        "density_kg_m3": "2200 - 2500",
+        "temperature_C": "750 - 950"
+      }
+    ]
+  }
+  
